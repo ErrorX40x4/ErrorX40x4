@@ -1,76 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>About Me</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
+<h2 align="left">Hi 👋! My name is ErrorX40x4</h2>
 
-    h1, h2 {
-      text-align: left;
-      color: #2c3e50;
-    }
+###
 
-    p {
-      max-width: 600px;
-      line-height: 1.6;
-      text-align: left;
-    }
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZxOTY1d2Q2bHhxYmRkNzV5MHprOW1icGw1bjB3cGFiaGhzM2N0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif"  />
 
-    .tech-icons {
-      display: flex;
-      gap: 20px;
-      align-items: center;
-      margin-top: 10px;
-    }
+###
 
-    .tech-icons img {
-      height: 50px;
-      transition: transform 0.3s ease-in-out;
-      animation: float 3s ease-in-out infinite;
-    }
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-    .tech-icons img:hover {
-      transform: scale(1.2) rotate(5deg);
-    }
+###
 
-    /* Animation: smooth floating effect */
-    @keyframes float {
-      0%   { transform: translateY(0px); }
-      50%  { transform: translateY(-8px); }
-      100% { transform: translateY(0px); }
-    }
-  </style>
-</head>
-<body>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-  <!-- About Me Section -->
-  <h1>About Me</h1>
-
-  <p>Thank you for visiting my account.</p>
-
-  <p>
-    I enjoy building diverse projects using Python. I actively volunteer and engage in learning opportunities to deepen my expertise and become a professional in the field.
-  </p>
-
-  <!-- Tech Stack Section -->
-  <h2>I Code With</h2>
-
-  <div class="tech-icons">
-    <!-- JavaScript Logo -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript logo" />
-
-    <!-- Python Logo -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-         alt="Python logo" />
-  </div>
-
-</body>
-</html>
+###
